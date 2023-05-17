@@ -1,4 +1,4 @@
-Problem 1: Finding Favorite Times
+# Problem 1: Finding Favorite Times
 Problem Description
 
 Wendy has an LED clock radio, which is a 12-hour clock, displaying times from 12:00 to 11:59. The hours do not have leading zeros but minutes may have leading zeros, such as 2:07 or 11:03.
