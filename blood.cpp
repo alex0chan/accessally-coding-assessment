@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// note: I think the first test case (s4.1.in) for this problem may be incorrect because it allows for o positive blood to be given to ab negative patients.
+
 int main() {
     // initializing arrays to hold our data
     int units[8];
