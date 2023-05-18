@@ -5,6 +5,7 @@ using namespace std;
 
 int main() {
     // initializing arrays to hold our data
+    // using arrays because the input is a fixed length
     int units[8];
     int patients[8];
 
