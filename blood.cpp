@@ -28,7 +28,7 @@ struct unit {
     unordered_map<type, bool> donate;
 };
 
-// global variables aren't always the best practice, but it will help with our recursive function
+// global variables aren't always the best practice, but it helps with our functions
 int baseoutput;
 int output;
 
