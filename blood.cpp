@@ -2,7 +2,7 @@
 using namespace std;
 
 // note: I think the first test case (s4.1.in) for this problem may be incorrect because it allows for o positive blood to be given to ab negative patients.
-// update: I see where I went wrong and I'll look into it soon!
+// update: I see where I went wrong and I'll have to try different combinations of blood donation!
 
 int main() {
     // initializing arrays to hold our data
